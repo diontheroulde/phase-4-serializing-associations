@@ -1,0 +1,15 @@
+current directory: /Users/diontherouldejr/defenders/phase-4/phase-4-serializing-associations/vendor/ruby/2.6.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+/Users/diontherouldejr/.asdf/installs/ruby/2.6.1/bin/ruby -I /Users/diontherouldejr/.asdf/installs/ruby/2.6.1/lib/ruby/2.6.0 -r ./siteconf20210915-10447-10vkm2e.rb extconf.rb
+creating Makefile
+
+current directory: /Users/diontherouldejr/defenders/phase-4/phase-4-serializing-associations/vendor/ruby/2.6.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/diontherouldejr/defenders/phase-4/phase-4-serializing-associations/vendor/ruby/2.6.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/diontherouldejr/defenders/phase-4/phase-4-serializing-associations/vendor/ruby/2.6.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20210915-10447-19ujbc1
